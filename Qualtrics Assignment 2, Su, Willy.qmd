@@ -48,8 +48,8 @@ Q4.4 was changed to Force Response so that respondents must provide a response b
 
 ### GitHub Repository
 
-[GitHub Repository](之後放你的GitHub%20Repository網址)
+[GitHub Repository](https://github.com/WillySuu/Qualtrics-M02---Setting-up-an-Experimental-Design)
 
 ### Published HTML Page
 
-[Published HTML Page](之後放你的GitHub%20Pages網址)
+[Published HTML Page](https://willysuu.github.io/Qualtrics-M02---Setting-up-an-Experimental-Design/)
